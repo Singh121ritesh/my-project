@@ -20,5 +20,4 @@ Modern Responsive UI
 Chat Interface
 REST API Architecture
 MongoDB Database Integration
-Image Upload Support (if enabled)
 Protected Routes
